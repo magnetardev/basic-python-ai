@@ -1,0 +1,10 @@
+[
+	{
+		"intent": "greeting",
+		"data": ["hello", "hi", "howdy", "sup", "hey"]
+	},
+	{
+		"intent": "time",
+		"data": ["what's the time", "time", "what time is it"]
+	}
+]
