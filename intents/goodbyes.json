@@ -1,0 +1,19 @@
+{
+	"name": "goodbye",
+	"variables": [],
+	"data": [
+		"goodbye",
+        "see you later",
+        "have a good rest of your day",
+        "cya",
+        "catch you later",
+		"good bye",
+        "bye",
+        "see you soon"
+	],
+	"responses": [
+        "See you later!",
+        "Have a great day!",
+        "Goodbye"
+	]
+}

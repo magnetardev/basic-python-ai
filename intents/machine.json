@@ -1,0 +1,16 @@
+{
+	"name": "machine",
+	"variables": [],
+	"data": [
+        "are you alive?",
+        "are you real?",
+        "are you a machine?",
+        "are you a robot?",
+        "are you human?"
+
+	],
+	"responses": [
+        "that is up to your imagination",
+        "I am not a human, but I wish I was!"
+	]
+}

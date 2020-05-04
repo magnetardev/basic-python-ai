@@ -1,0 +1,21 @@
+{
+	"name": "songs",
+	"variables": [],
+	"data": [
+        "what song should I listen to?",
+        "what is a popular song?",
+        "give me a good song",
+        "tell me a song I should listen to"
+	],
+	"responses": [
+       "A popular song in 2020 is Adore You by Harry Styles.",
+       "A popular song in 2019 is Truth Hurts by Lizzo.",
+       "You should listen to Blinding Lights by the Weeknd.",
+       "A good song is Memories by Maroon 5.",
+       "A good rap song is Pure Water by the Migos.",
+       "A popular rap song is Panini by Lil Nas X featuring DaBaby.",
+       "Bop by DaBaby is very popular.",
+       "If you like country music, you should listen to Heartache Medication by Jon Pardi.",
+       "A great country song is Beer Never Broke My Heart by Luke Combs."
+	]
+}
